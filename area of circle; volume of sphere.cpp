@@ -1,10 +1,12 @@
 #include<iostream>
 using namespace std;
 int main(){
-    float r;
-    cin>>r;
-    float ar = 3.141592*r*r;
-    cout<<ar<<endl;
+    
+    // area of circle
+    // float r;
+    // cin>>r;
+    // float ar = 3.141592*r*r;
+    // cout<<ar<<endl;
     
     cout<< "Enter Radius: ";
     float radius;
@@ -13,6 +15,8 @@ int main(){
     cout<< "Area of circle: ";
     cout<<area<<endl;
     
+   
+    // volume of sphere
     cout<<"Enter Radius: ";
     float Ra;
     cin>>Ra;
